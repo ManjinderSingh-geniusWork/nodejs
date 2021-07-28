@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "node/express js practices",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManjinderSingh-geniusWork/nodejs.git"
+  },
+  "author": "geniuswork@yahoo.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManjinderSingh-geniusWork/nodejs/issues"
+  },
+  "homepage": "https://github.com/ManjinderSingh-geniusWork/nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
